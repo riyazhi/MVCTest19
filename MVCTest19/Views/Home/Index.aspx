@@ -9,7 +9,7 @@
 <body>
 <h1> MVC Test Application.</h1>
     <div>
-    
+    <p>Content here added.</p>
     </div>
 </body>
 </html>
